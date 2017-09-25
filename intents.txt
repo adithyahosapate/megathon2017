@@ -1,0 +1,15 @@
+Academic Advisor ChatBot
+
+Intents to be used:
+* about_bot 
+* about_user
+* course_options
+* previous_trends
+* decision_replies
+* local_colleges
+* greetings
+* negative_reactions
+* positive_reactions
+
+Secondary intents
+* interface_interactions (different language support)
